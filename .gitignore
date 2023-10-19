@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__init__.pyc
+__init__.pyo
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+venv2/
+.venv/
+.venv2/
+
+# IDE settings
+.idea/
+
+# User-specific files
+*.swp
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Environment-specific files
+.env
+
+# Ignore any other specific files or directories that your project generates
+
+# Add your custom ignores here
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+venv2/
+.venv/
+.venv2/
+
+# IDE settings
+.idea/
+
+# User-specific files
+*.swp
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Environment-specific files
+.env
+
+# Ignore MP4 files
+*.mp4
+
+# Add your custom ignores here
